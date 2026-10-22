@@ -15,7 +15,7 @@ print(f"Rows: {df.shape[0]:,}")
 print(f"Columns: {df.shape[1]}")
 
 print("\n--- COLUMN NAMES ---")
-print(df.columns.tolist())
+print(df.columns.tolist())v
 
 print("\n--- DATA TYPES ---")
 df.info()
